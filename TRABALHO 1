@@ -1,0 +1,95 @@
+1. Jurimetria é um sistema que consiste na aplicação de análises matemáticas no
+campo do direito, com o objetivo de auxiliar os profissionais a terem maior previsibilidade
+nos processos jurídicos.
+O processo se inicia com uma coleta de dados gerados pelo Judiciário, como por
+exemplo as jurisprudências, que posteriormente são analisados pela jurimetria, normalmente
+com a ajuda de um software. Assim, é possível identificar padrões dentro do direito e acaba
+se tornando importante para obter uma maior otimização do tempo de trabalho, economia de
+recursos, aumento da produtividade, capacidade de previsão de resultados...
+Com isso, o advogado conseguirá prever a sua taxa de sucesso em determinado caso
+e os tribunais conseguirão garantir maior uniformização das decisões dos magistrados.
+
+2. A partir da criação da lei no 12.965 de 2014, conhecida como o Marco Civil da
+Internet, a Neutralidade de Rede assegura uma igualdade de tratamento dos dados
+transmitidos na internet, ou seja, uma operadora de internet não pode priorizar o
+fornecimento de qualidade de conexão a um serviço ou aplicativo específico. Com isso, o
+ambiente virtual fica livre de controle de informações e também é uma garantia da liberdade
+de expressão ao usuário.
+No entanto, a legislação brasileira prevê dois casos de exceção ao princípio da
+neutralidade da rede: se ela for um requisito técnico indispensável à prestação adequada
+dos serviços e aplicações e na priorização de serviços de emergência.
+
+3. A Inteligência Artificial (IA) é uma nova tecnologia que permite os dispositivos
+eletrônicos executem atividades com autonomia, simulando o comportamento dos seres
+humanos, isto é, capacidade das máquinas de resolver problemas, tomar decisões,
+reconhecer imagens e voz, raciocínio...
+Existem diferentes formas de “ensinar” as máquinas a produzirem comportamentos
+humanos, sendo elas:
+- Machine Learning (aprendizado de máquina): o computador consegue aprender
+sozinho com exemplos e experiências e estabelecer padrões. Um exemplo disso são
+as recomendações de filmes e séries que a Netflix oferece aos usuários.
+- Deep Learning (aprendizado profundo): a máquina utiliza redes neurais complexas
+para estabelecer padrões e atingir uma capacidade interpretativa, como o
+reconhecimento de voz na Alexa.
+Os exemplos de inteligência artificial mais atuais são os carros autônomos, o ChatGPT
+e as assistentes virtuais como a Alexa da Amazon e a Siri da Apple.
+
+4. Algoritmo é uma sequência limitada de comandos e instruções fornecidos ao
+computador para que ele consiga executar uma tarefa específica. Nas redes sociais, por
+exemplo, o algoritmo é utilizado para criar recomendações personalizadas para o usuário
+baseado nas suas últimas buscas.
+
+5. Sistema de Arquivo é um conjunto de regras utilizado por um sistema operacional
+para garantir a organização de dados e arquivos em um determinado aparelho de
+armazenamento, como pen drives e DVDs.
+Quando abrimos o Spotify, por exemplo, nós conseguimos organizar músicas
+conforme os gêneros musicais e dar nome para essas playlists. O sistema de arquivo
+funciona da mesma maneira, sem ele nós não conseguiríamos organizar as músicas e
+ficaria tudo em um só lugar.
+Cada sistema operacional aplica um sistema de arquivos e cada um deles possui as
+suas particularidades, por exemplo o Windows utiliza o NTFS, que tem como vantagem um
+forte modelo de segurança, e o Linux usa o EXT4, que suporta tamanhos maiores de
+arquivo.
+
+REFERÊNCIAS BIBLIOGRÁFICAS
+
+JURIMETRIA: o que é e como fica a advocacia depois dessa revolução. Projuris, 2022.
+Disponível em: <https://www.projuris.com.br/blog/jurimetria/>. Acesso em: 18 de fevereiro de 2024.
+
+JURIMETRIA: o que é, pilares e impactos no setor jurídico. Totvs, 2023. Disponível em:
+<https://www.totvs.com/blog/gestao-juridica/jurimetria/>. Acesso em: 18 de fevereiro de 2024.
+
+JURIMETRIA: entenda a importância e veja exemplos. Ultimatum, 2022. Disponível em:
+<https://www.ultimatum.com.br/jurimetria-o-que-e-e-qual-a-aplicabilidade-nos-escritorios-e-departamentos-juridicos/>. 
+Acesso em: 18 de fevereiro de 2024.
+
+VALENTE, Jonas. Entenda o que é neutralidade de rede e como é o seu funcionamento no
+Brasil. AgênciaBrasil, 2017. Disponível em:
+<https://agenciabrasil.ebc.com.br/geral/noticia/2017-12/entenda-o-que-e-neutralidade-de-rede-e-como-e-o-seu-funcionamento-no-brasil>. 
+Acesso em: 18 de fevereiro de 2024.
+
+CIPOLI, Pedro. Fim da neutralidade de rede: quais serão as consequências. CanalTech,
+2018. Disponível em:<https://canaltech.com.br/internet/fim-da-neutralidade-da-rede-quais-serao-as-consequencias-105964/>. 
+Acesso em: 18 de fevereiro de 2024.
+
+INTELIGÊNCIA Artificial: o que é, como funciona e exemplos. FIA Business School, 2023.
+Disponível em: <https://fia.com.br/blog/inteligencia-artificial/>. Acesso em: 18 de fevereiro de 2024.
+
+LEMOS, Amanda. Inteligência Artificial: o que é e como funciona. Exame, 2023. Disponível
+em:<https://exame.com/inteligencia-artificial/inteligencia-artificial-o-que-e-e-como-funciona/>.
+Acesso em: 18 de fevereiro de 2024.
+
+COSSETTI, Melissa Cruz. O que é inteligência artificial. Tecnoblog, 2023. Disponível em:
+<https://tecnoblog.net/responde/o-que-e-inteligencia-artificial/>. Acesso em: 18 de fevereiro de 2024.
+
+AFINAL, você sabe o que é algoritmo? Confira um guia completo sobre o assunto. Saraiva
+Educação, 2022. Disponível em: <https://conteudo.saraivaeducacao.com.br/tecnologia/algoritmo/>. 
+Acesso em: 18 de fevereiro de 2024.
+
+YADAY, Aakansha. File Systems in Operating System. Geeksforgeeks, 2023. Disponível
+em: <https://www.geeksforgeeks.org/file-systems-in-operating-system/>. 
+Acesso em: 18 de fevereiro de 2024.
+
+VINICIUS. FILE System – O que é o sistema de arquivos. Webcenter, 2021. Disponível em:
+<https://www.webcenter.com.br/blog/file-system-o-que-e-o-sistema-de-arquivos/>. 
+Acesso em: 18 de fevereiro de 2024.
