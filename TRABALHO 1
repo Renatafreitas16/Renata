@@ -51,6 +51,30 @@ suas particularidades, por exemplo o Windows utiliza o NTFS, que tem como vantag
 forte modelo de segurança, e o Linux usa o EXT4, que suporta tamanhos maiores de
 arquivo.
 
+6. Zero-rating é uma prática realizada pelas operadoras que consiste em fornecer o uso de 
+determinado aplicativo de forma ilimitada e gratuita, ou seja, sem descontar do plano de internet 
+do usuário. Tendo em vista tal favorecimento, pode-se afirmar que tal prática fere o princípio da 
+Neutralidade de Rede, previsto na lei conhecida como o Marco Civil da Internet, visto que é contrário 
+ao privilégio de tráfego nas redes. 
+
+7. Servidor é um computador ou software central que possui grande capacidade de armazenamento e 
+processamento, e consegue se conectar com outros computadores através de uma rede. Seus objetivos 
+são facilitar a transmissão de dados e informações entre várias máquinas, impulsionando uma maior 
+produtividade, e simplificar seu acesso e administração.
+Com isso, torna-se desnecessário uma empresa, por exemplo, instalar um aplicativo em cada uma de suas 
+máquinas, basta tê-lo instalado no servidor. Assim, cada um dos computadores que estiverem conectados 
+a este servidor terão o aplicativo instalado de forma automática. 
+
+8. Dados são elementos brutos, isto é, que ainda não foram especificados, tratados e nem interpretados. 
+Eles podem ser letras, números, símbolos ou até imagens e, por isso, não conseguem transmitir uma mensagem clara. 
+
+9. A Informação surge a partir do processamento de dados e é capaz de transmitir uma mensagem clara. 
+
+10. Banco de dados é uma forma de organização e armazenamento de um agrupamento de dados inter-relacionados. 
+Com isso, torna-se mais fácil o gerenciamento e o acesso dessa grande quantidade de dados e ainda é um 
+ambiente seguro para guardá-los.
+
+
 REFERÊNCIAS BIBLIOGRÁFICAS
 
 JURIMETRIA: o que é e como fica a advocacia depois dessa revolução. Projuris, 2022.
@@ -93,3 +117,17 @@ Acesso em: 18 de fevereiro de 2024.
 VINICIUS. FILE System – O que é o sistema de arquivos. Webcenter, 2021. Disponível em:
 <https://www.webcenter.com.br/blog/file-system-o-que-e-o-sistema-de-arquivos/>. 
 Acesso em: 18 de fevereiro de 2024.
+
+RAMOS, Pedro Henrique Soares. Zero-rating: uma introdução ao debate. Politics, 2015. 
+Disponível em: <https://politics.org.br/edicoes/zero-rating-uma-introdu%C3%A7%C3%A3o-ao-debate>. 
+Acesso em: 26 de fevereiro de 2024.
+
+KRIGER, Daniel. O que é um servidor, como ele funciona e principais vantagens. Kenzie, 2022. 
+Disponível em: <https://kenzie.com.br/blog/servidor/>. Acesso em: 26 de fevereiro de 2024.
+
+DIFERENÇA entre dados e informação e como fazer a gestão desses elementos. Totvs, 2024. 
+Disponível em: <https://www.totvs.com/blog/inteligencia-de-dados/diferenca-dados-e-informacao/>. 
+Acesso em: 26 de fevereiro de 2024.
+
+SOUZA, Ivan de. Banco de dados: saiba o que é, os tipos e a importância para o site da sua empresa. 
+Rockcontet, 2020. Disponível em: <https://rockcontent.com/br/blog/banco-de-dados/>. Acesso em: 26 de fevereiro de 2024.
