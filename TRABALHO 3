@@ -1,0 +1,35 @@
+1. A relação entre a LGPD e os Data Centers no Brasil.
+
+Os Data Centers são instalações físicas projetadas para abrigar muitos computadores em rede para trabalharem em conjunto no processamento, armazenamento e 
+compartilhamento de dados de determinada empresa, garantindo a organização e segurança de suas informações. 
+A Lei Geral de Proteção de Dados (LGPD) visa promover a proteção dos dados pessoais dos cidadãos brasileiros, levando em consideração os direitos fundamentais 
+de liberdade e privacidade. A partir da sua vigência em 2020, todas as empresas que têm negócios no Brasil, mesmo que estrangeiras, passaram a só poder 
+compartilhar dados de seus clientes mediante a autorização prévia. 
+Para atender os requisitos legais da LGPD, as empresas tiveram que estabelecer medidas de segurança para garantir a preservação dos dados e informações de 
+seus usuários nos seus respectivos Data Centers. Por isso, tais ambientes devem ser protegidos contra acidentes naturais, vazamento de dados, acessos indevidos etc.
+
+2. Formatos de arquivos de dados proprietários e abertos.
+
+Formato é um modo específico de codificar a informação para o seu armazenamento e recuperação em um arquivo de computador, podendo ser proprietário ou aberto.
+Os formatos proprietários são controlados e definidos por interesse privado, como o DOC (formato proprietário de texto) e o PPT (formato proprietário de apresentação de slides). 
+Já os abertos são acessíveis a qualquer pessoa, ou seja, todos podem visualizar, editar e até compartilhar os arquivos neste formato. O HTML e o Open Document Format (ODF) 
+são exemplos de formato aberto.
+O Decreto nº 8.777/2016 instituiu a política de dados abertos no Brasil e tem como objetivo a garantia de publicação dos dados do governo em formato aberto. Dessa forma, 
+os cidadãos conseguem acessá-los de qualquer computador e é uma maneira de trazer mais transparência na gestão governamental. 
+
+
+REFERÊNCIAS 
+
+O papel dos Data Centers na privacidade e proteção de dados. Artbackup. 
+Disponível em: <https://www.artbackup.com.br/blog/o-papel-dos-data-centers-na-protecao-de-dados/>. Acesso em: 04 de março de 2024.
+
+O que é um data center? Descubra sua importância e como funciona. Penso, 2020. 
+Disponível em: <https://www.penso.com.br/o-que-e-um-data-center-descubra-sua-importancia-e-como-funciona/>. Acesso em: 04 de março de 2024.
+
+O que são formatos abertos. Campus Virtual Fiocruz, 2019. 
+Disponível em: <https://campusvirtual.fiocruz.br/portal/guiarea/OpenFormats.html>. Acesso em: 04 de março de 2024.
+
+ARQUIVOS Abertos: Desvendando o Poder da Liberdade de Acesso. Bh Band. 
+Disponível em: <https://www.bhband.com.br/pagina/arquivos-abertos-desvendando-o-poder-da-liberdade-de-acesso.html>. Acesso em: 04 de março de 2024.
+
+
