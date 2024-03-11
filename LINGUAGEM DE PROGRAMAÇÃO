@@ -1,0 +1,71 @@
+1. Java é uma linguagem de programação orientada a objetos amplamente utilizada e uma plataforma software executada em bilhões de dispositivos, incluindo notebooks, dispositivos móveis, consoles de jogos, dispositivos médicos e muitos outros.
+- Os blocos de código são definidos com {} e precisa marcar o fim de uma instrução com ;
+
+exemplo: class RenatadeFreitas {
+    public static void main(String[] args) {
+        System.out.println("Renata de Freitas");
+    }
+}
+
+2. Python é uma linguagem de programação marcada pela sua simplicidade e versatilidade. Ele exige menos códigos para concluir uma tarefa e pode ser usado para diversas soluções digitais, como inteligência artificial e desenvolvimento web.
+- Os blocos de código são definidos com ":" e pela indentação
+
+exemplo: print("Olá, Mundo!")
+
+3. JavaScript é uma linguagem de programação de alto nível que leva interatividade aos sites. Ela permite que o programador crie conteúdos mais dinâmicos, que atualizam em um intervalo de tempo, como animações e gráficos.
+- Os blocos de código são definidos com {} 
+
+exemplo: HTML 
+<div id="banner-message">
+  <p>Renata Freitas</p>
+  <button>Aperta aqui</button>
+</div>
+
+CCS
+body {
+  background: #F5F7F8;
+  padding: 20px;
+  font-family: Helvetica;
+}
+
+#banner-message {
+  background: #F5F7F8;
+  border-radius: 4px;
+  padding: 20px;
+  font-size: 30px;
+  text-align: center;
+  transition: all 0.2s;
+  margin: 0 auto;
+  width: 300px;
+}
+
+button {
+  background: #0084ff;
+  border: none;
+  border-radius: 5px;
+  padding: 8px 14px;
+  font-size: 20px;
+  color: #fff;
+}
+
+#banner-message.alt {
+  background: #45474B;
+  color: #fff;
+  margin-top: 40px;
+  width: 200px;
+}
+
+#banner-message.alt button {
+  background: #fff;
+  color: #000;
+}
+
+JAVASCRIPT 
+// find elements
+var banner = $("#banner-message")
+var button = $("button")
+
+// handle click and add class
+button.on("click", () => {
+  banner.toggleClass("alt")
+})
