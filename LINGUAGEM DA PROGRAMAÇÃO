@@ -1,0 +1,35 @@
+1. Java é uma linguagem de programação orientada a objetos amplamente utilizada e uma plataforma software executada em bilhões de dispositivos, incluindo notebooks, 
+dispositivos móveis, consoles de jogos, dispositivos médicos e muitos outros. 
+Os blocos de código são definidos com {} e precisa marcar o fim de uma instrução com ;
+
+exemplo: class RenatadeFreitas {
+    public static void main(String[] args) {
+        System.out.println("Renata de Freitas");
+    }
+}
+
+
+2. Python é uma linguagem de programação marcada pela sua simplicidade e versatilidade. Ele exige menos códigos para concluir uma tarefa e pode ser usado 
+para diversas soluções digitais, como inteligência artificial e desenvolvimento web.
+Os blocos de código são definidos com ":" e pela indentação
+
+exemplo: print("Renata de Freitas")
+
+3. JavaScript é uma linguagem de programação de alto nível que leva interatividade aos sites. Ela permite que o programador crie conteúdos mais dinâmicos, que 
+atualizam em um intervalo de tempo, como animações e gráficos.
+Os blocos de código são definidos com {}
+
+exemplo: console.log("Renata de Freitas"); 
+
+REFERENCIAS
+
+O que é Java. IBM. Disponível em: <https://www.ibm.com/br-pt/topics/java>. Acesso em: 10 de março de 2024.
+
+MONTENEGRO, Bruna. Para que Python é usado? Um guia para iniciantes. EBAC, 2023. Disponível em: < https://ebaconline.com.br/blog/python-guia-para-iniciantes#title3>. 
+Acesso em: 10 de março de 2024.
+
+SANTANA, André. Linguagens de programação: uma breve introdução contextualizada. ALURA, 2023. Disponível em: <https://www.alura.com.br/artigos/linguagem-programacao>. 
+Acesso em: 10 de março de 2024.
+
+NOÇÕES básicas de JavaScript. MOZILLA. Disponível em: <https://developer.mozilla.org/pt-BR/docs/Learn/Getting_started_with_the_web/JavaScript_basics>. 
+Acesso em: 10 de março de 2024.
